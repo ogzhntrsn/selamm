@@ -13,6 +13,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+
+
+
+
+
+//aleyna aleyküm sleam
+
+
 Route::get('/', function () {
     return view('welcome');
 });
