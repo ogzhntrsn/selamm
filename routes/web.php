@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/deneme', function (){
 
 });
+
+Route::get('/d', function (){
+
+});
